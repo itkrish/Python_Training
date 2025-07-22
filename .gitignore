@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# matplotlib cache
+*.png
+*.jpg
+*.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
